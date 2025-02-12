@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+}
+h2{
+    color: blue;
+}
+
+h3 { 
+    color: rgb(0, 0, 255);
+}
+
+
+ul li {
+    color:aqua;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+body {
+ background-color: black;
+ background-image: url(./img/Без\ названия.jfif);
+}
+.firstli{
+    color: orange;
+}
